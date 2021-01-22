@@ -20,7 +20,7 @@ async def start(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "CREATOR", url="https://github.com/TroJanzHEX/Image-Editor")
+                            "CREATOR", url="https://t.me/imjerij")
                     ]
                 ]
             ),
@@ -43,7 +43,7 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "CREATOR", url="https://github.com/TroJanzHEX/Image-Editor")
+                            "CREATOR", url="https://t.me/imjerin")
                     ]
                 ]
             ),
@@ -66,7 +66,7 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "CREATOR", url="https://github.com/TroJanzHEX/Image-Editor")
+                            "CREATOR", url="https://t.me/imjerin")
                     ]
                 ]
             ),
