@@ -34,11 +34,11 @@
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Image-Editor)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jerinjohny-ktnm/Image-Editor)
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Image-Editor
+git clone https://github.com/jerinjohny-ktnm/Image-Editor
 cd Image-Editor
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
